@@ -17,3 +17,6 @@ OV5647(SKU:B0215)
 OV2311(SKU:B0221/B0220/B0264)  
 
 Sometimes OV2311 cannot get data normally for the first time, please try to run it again.
+OV2311(SKU:B0221/B0220/B0264)  
+
+Sometimes OV2311 cannot get data normally for the first time, please try to run it again.

@@ -1,0 +1,30 @@
+
+declare -A nano_names
+declare -A nano_download_links 
+nano_names["4.9.140-tegra-32.4.3-20200625213809"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+nano_download_links["4.9.140-tegra-32.4.3-20200625213809"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nano-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+
+nano_names["4.9.140-tegra-32.4.4-20201016124427"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+nano_download_links["4.9.140-tegra-32.4.4-20201016124427"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nano-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+
+nano_names["4.9.140-tegra-32.4.3-20200924161919"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+nano_download_links["4.9.140-tegra-32.4.3-20200924161919"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nano-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+
+nano_names["4.9.140-tegra-32.4.4-20201027211359"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+nano_download_links["4.9.140-tegra-32.4.4-20201027211359"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nano-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+
+
+declare -A nx_download_links 
+declare -A nx_names
+
+nx_names["4.9.140-tegra-32.4.3-20200625213407"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+nx_download_links["4.9.140-tegra-32.4.3-20200625213407"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nx-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+
+nx_names["4.9.140-tegra-32.4.4-20201016123640"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+nx_download_links["4.9.140-tegra-32.4.4-20201016123640"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nx-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+
+nx_names["4.9.140-tegra-32.4.3-20200924161919"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+nx_download_links["4.9.140-tegra-32.4.3-20200924161919"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nx-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.3-20201120142515_arm64_imx477_master_slave.deb"
+
+nx_names["4.9.140-tegra-32.4.4-20201027211332"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"
+nx_download_links["4.9.140-tegra-32.4.4-20201027211332"]="https://github.com/ArduCAM/MIPI_Camera/releases/download/v0.0.1-nx-m%2Fs/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201120142515_arm64_imx477_master_slave.deb"

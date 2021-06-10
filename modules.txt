@@ -1,0 +1,17 @@
+declare -A module_cfg_names=(
+    ["arducam"]="arducam_links.txt"
+    ["imx477"]="imx477_links.txt"
+    ["imx230"]="imx230_links.txt"
+    ["imx298"]="imx298_links.txt"
+    ["imx477_master_slave"]="imx477_master_slave_links.txt"
+    ["imx477_stereo"]="imx477_stereo_links.txt"
+)
+
+declare -A module_cfg_download_links=(
+    ["arducam"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/arducam_links.txt"
+    ["imx477"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/imx477_links.txt"
+    ["imx230"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/imx230_links.txt"
+    ["imx298"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/imx298_links.txt"
+    ["imx477_master_slave"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/imx477_master_slave_links.txt"
+    ["imx477_stereo"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/imx477_stereo_links.txt"
+)

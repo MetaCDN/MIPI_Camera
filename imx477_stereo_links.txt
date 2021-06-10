@@ -1,0 +1,38 @@
+
+declare -A nano_names
+declare -A nano_download_links 
+
+nano_names["4.9.140-tegra-32.4.4-20201016124427"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201106140811_arm64_imx477_stereo.deb"
+nano_download_links["4.9.140-tegra-32.4.4-20201016124427"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1-nano/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201106140811_arm64_imx477_stereo.deb"
+
+nano_names["4.9.140-tegra-32.4.4-20201027211359"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201106140811_arm64_imx477_stereo.deb"
+nano_download_links["4.9.140-tegra-32.4.4-20201027211359"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1-nano/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20201106140811_arm64_imx477_stereo.deb"
+
+
+nano_names["4.9.201-tegra-32.5.1-20210219084526"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210416091143_arm64_imx477_stereo.deb"
+nano_download_links["4.9.201-tegra-32.5.1-20210219084526"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1-nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210416091143_arm64_imx477_stereo.deb"
+
+nano_names["4.9.201-tegra-32.5.1-20210505093645"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210416091143_arm64_imx477_stereo.deb"
+nano_download_links["4.9.201-tegra-32.5.1-20210505093645"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1-nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210416091143_arm64_imx477_stereo.deb"
+
+
+declare -A nx_download_links 
+declare -A nx_names
+
+nx_names["4.9.140-tegra-32.4.4-20201016123640"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20210514135723_arm64_imx477_stereo.deb"
+nx_download_links["4.9.140-tegra-32.4.4-20201016123640"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20210514135723_arm64_imx477_stereo.deb"
+
+nx_names["4.9.140-tegra-32.4.4-20201027211332"]="arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20210514135723_arm64_imx477_stereo.deb"
+nx_download_links["4.9.140-tegra-32.4.4-20201027211332"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1/arducam-nvidia-l4t-kernel_4.9.140-32.4.4-20210514135723_arm64_imx477_stereo.deb"
+
+nx_names["4.9.201-tegra-32.5.0-20210115151051"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.0-20210517093145_arm64_imx477_stereo.deb"
+nx_download_links["4.9.201-tegra-32.5.0-20210115151051"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.0-20210517093145_arm64_imx477_stereo.deb"
+
+nx_names["4.9.201-tegra-32.5.1-20210219084708"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477_stereo.deb"
+nx_download_links["4.9.201-tegra-32.5.1-20210219084708"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477_stereo.deb"
+
+nx_names["4.9.201-tegra-32.5.1-20210302195856"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477_stereo.deb"
+nx_download_links["4.9.201-tegra-32.5.1-20210302195856"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477_stereo.deb"
+
+nx_names["4.9.201-tegra-32.5.1-20210505093723"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477_stereo.deb"
+nx_download_links["4.9.201-tegra-32.5.1-20210505093723"]="https://github.com/ArduCAM/Camarray_HAT/releases/download/v0.0.1/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477_stereo.deb"

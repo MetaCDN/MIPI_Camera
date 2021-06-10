@@ -1,0 +1,9 @@
+declare -A nano_names
+declare -A nano_download_links 
+
+nano_names["4.9.201-tegra-32.5.1-20210219084526"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210407100543_arm64_imx298.deb"
+nano_download_links["4.9.201-tegra-32.5.1-20210219084526"]="https://github.com/ArduCAM/Arducam-Jetvariety-ISP-V4L2-Driver/releases/download/v0.0.1-nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210407100543_arm64_imx298.deb"
+
+
+declare -A nx_download_links 
+declare -A nx_names
