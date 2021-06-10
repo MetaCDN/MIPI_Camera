@@ -16,7 +16,7 @@ nano_names["4.9.201-tegra-32.5.0-20210115145440"]="arducam-nvidia-l4t-kernel_4.9
 nano_download_links["4.9.201-tegra-32.5.0-20210115145440"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/Jetson/IMX477/driver/Nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.0-20210126142035_arm64_imx477.deb"
 
 nano_names["4.9.201-tegra-32.5.1-20210219084526"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477.deb"
-nano_download_links["4.9.201-tegra-32.5.1-20210219084526"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/Jetson/IMX477/driver/Nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477.deb"
+nano_download_links["4.9.201-tegra-32.5.1-20210219084526"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/Jetson/IMX477/driver/Nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210219084526_arm64_imx477.deb"
 
 nano_names["4.9.201-tegra-32.5.1-20210505093645"]="arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477.deb"
 nano_download_links["4.9.201-tegra-32.5.1-20210505093645"]="https://github.com/MetaCDN/MIPI_Camera/tree/master/Jetson/IMX477/driver/Nano/arducam-nvidia-l4t-kernel_4.9.201-tegra-32.5.1-20210302195021_arm64_imx477.deb"
